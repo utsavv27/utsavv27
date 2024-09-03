@@ -1,5 +1,5 @@
 # 💫 About Me:
-DevOps Expertise: Bridging development and operations with seamless automation.<br>Cloud & Containers: Skilled in AWS, Docker, Kubernetes, and cloud infrastructure.<br>CI/CD & Automation: Building efficient CI/CD pipelines using tools like Jenkins and Terraform.<br>Continuous Improvement: Passionate about adopting new technologies and best practices.<br>
+DevOps Expertise: Bridging development and operations with seamless automation.<br>Cloud & Containers: Skilled in AWS, Docker, Kubernetes, and cloud infrastructure.<br>CI/CD & Automation: Building efficient CI/CD pipelines using tools like Github-Actions and Terraform.<br>Continuous Improvement: Passionate about adopting new technologies and best practices.<br>
 
 
 ## 🌐 Socials:
