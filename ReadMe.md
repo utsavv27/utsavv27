@@ -1,11 +1,11 @@
 # 💫 About Me:
-DevOps Expertise: Bridging development and operations with seamless automation.
-<br>Linux & Scripting: Experienced in Linux and Bash scripting for system management and automation.
-<br>Git: Proficient in Git for version control, branching strategies (GitFlow, trunk-based development), and efficient collaboration across distributed teams. Skilled in managing Git hooks, resolving merge conflicts, and integrating Git with CI/CD tools like GitHub Actions.
-<br>Cloud: Skilled in AWS (including services like EC2, S3, Lambda, Route 53) and Azure (VMs, App Services).
-<br>Containers: Proficient with Docker and Kubernetes for container orchestration and management.
-<br>CI/CD & Automation: Building efficient CI/CD pipelines using tools like GitHub Actions, Terraform, CircleCI, and FluxCD for automation.
-<br>Continuous Improvement: Passionate about adopting new technologies, cloud best practices, and optimizing infrastructure.<br>
+#### DevOps Expertise: Bridging development and operations with seamless automation and Deployment.
+#### Linux & Scripting: Experienced in Linux and Bash scripting for system management and automation.
+#### Git: Proficient in Git for version control, branching strategies (trunk-based development), and efficient collaboration across distributed teams. Skilled in resolving merge conflicts, and integrating Git with CI/CD tools like GitHub Actions.
+#### Cloud: Skilled in AWS (including services like EC2, S3, Lambda, Route 53) and Azure (VMs, App Services).
+#### Containers: Proficient with Docker and Kubernetes for container orchestration and management.
+#### CI/CD & Automation: Building efficient CI/CD pipelines using tools like GitHub Actions, Terraform, CircleCI, and FluxCD for automation.
+#### Continuous Improvement: Passionate about adopting new technologies, cloud best practices, and optimizing infrastructure.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adhyaruutsav) 
