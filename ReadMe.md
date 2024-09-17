@@ -1,6 +1,5 @@
 # 💫 About Me:
 DevOps Expertise: Bridging development and operations with seamless automation.
-
 <br>Linux & Scripting: Experienced in Linux and Bash scripting for system management and automation.
 <br>Git: Proficient in Git for version control, branching strategies (GitFlow, trunk-based development), and efficient collaboration across distributed teams. Skilled in managing Git hooks, resolving merge conflicts, and integrating Git with CI/CD tools like GitHub Actions.
 <br>Cloud: Skilled in AWS (including services like EC2, S3, Lambda, Route 53) and Azure (VMs, App Services).
