@@ -47,15 +47,7 @@
 
 
 </div>
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/utsavv27"
-  width="300"
-  height="300"
-/>
-</a>
-  </div>
+
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=utsavv27&theme=radical&no-frame=false&no-bg=false&margin-w=4)
