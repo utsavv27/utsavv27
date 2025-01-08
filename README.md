@@ -62,5 +62,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=utsavv27&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Visit Count
-![](https://komarev.com/ghpvc/?username=utsavv27&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=utsavv27&color=brightgreen&abbreviated=true&base=1000&style=plastic)
 
