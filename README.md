@@ -11,6 +11,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adhyaruutsav) 
 [![Visit Website](https://img.shields.io/badge/Website-purple)](https://website-nine-nu-25.vercel.app/)
+[![Visit Resume](https://img.shields.io/badge/Resume-light)](https://drive.google.com/file/d/1UZ5mtswl186L8Y4dQQ6RHpMy5g1FRuU9/view?usp=drive_link)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
