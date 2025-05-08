@@ -1,67 +1,119 @@
-# 💫 About Me:
-#### DevOps Expertise: Bridging development and operations with seamless automation and Deployment.
-#### Linux & Scripting: Experienced in Linux and Bash scripting for system management and automation.
-#### Git: Proficient in Git for version control, branching strategies (trunk-based development), and efficient collaboration across distributed teams. Skilled in resolving merge conflicts, and integrating Git with CI/CD tools like GitHub Actions.
-#### Cloud: Skilled in AWS (including services like EC2, S3, Route 53 ...) and Azure (VMs, App Services).
-#### Containers: Proficient with Docker and Kubernetes for container orchestration and management.
-#### CI/CD & Automation: Building efficient CI/CD pipelines using tools like GitHub Actions, Terraform, CircleCI, and FluxCD for automation.
-#### Continuous Improvement: Passionate about adopting new technologies, cloud best practices, and optimizing infrastructure.<br>
+<h1 align="center">Hi there, I'm Utsav 👋</h1>
+<h3 align="center">🚀 DevOps | ☁️ Cloud Engineer | 🐧 Linux Enthusiast</h3>
+
+---
+
+### 💫 About Me
+
+- 🧠 **DevOps Expertise**: Bridging development and operations with seamless automation, CI/CD, and deployment strategies.
+- 🐧 **Linux & Scripting**: Power user of Linux with strong experience in Bash scripting for automation and system management.
+- 🔧 **Git & Version Control**: Skilled in Git workflows (trunk-based development), resolving merge conflicts, and integrating Git with CI/CD tools like GitHub Actions.
+- ☁️ **Cloud Platforms**:
+  - **AWS**: EC2, S3, Route 53, IAM, CloudWatch and much more.
+  - **Azure**: VMs, App Services, Storage, and Networking.
+- 📦 **Containers & Orchestration**:
+  - **Docker**: Creating secure, reusable container images.
+  - **Kubernetes**: Managing clusters, deployments, services, and Helm charts.
+- ⚙️ **CI/CD & Automation**:
+
+  - 🛠️ **Pipelines: Automating the build, test, and deployment processes for efficient and reliable delivery cycles.**
+
+  - 🧱 **Infrastructure as Code (IaC): Ensuring repeatable and scalable infrastructure provisioning through code-driven configuration.**
+
+  - 🔁 **GitOps: Enabling Git-based deployment automation for continuous delivery and version-controlled infrastructure management.**
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adhyaruutsav) 
-[![Visit Website](https://img.shields.io/badge/Website-purple)](https://website-nine-nu-25.vercel.app/)
-[![Visit Resume](https://img.shields.io/badge/Resume-light)](https://drive.google.com/file/d/1UZ5mtswl186L8Y4dQQ6RHpMy5g1FRuU9/view?usp=drive_link)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![Gitea](https://img.shields.io/badge/Gitea-34495E?style=flat&logo=gitea&logoColor=5D9425) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=flat&logo=forgejo&logoColor=white) 
-![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=flat&logo=circleci&logoColor=white) 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+---
+## 🌐 Connect With Me
 
-# 📊 GitHub Stats:
+<p align="left">
+  <a href="https://linkedin.com/in/adhyaruutsav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://website-nine-nu-25.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://drive.google.com/file/d/1UZ5mtswl186L8Y4dQQ6RHpMy5g1FRuU9/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-green?style=flat&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
-<div align="center">
+## 🛠️ Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=utsavv27&theme=dark&hide_border=false&include_all_commits=true&count_private=true) </div>
+<table>
+  <tr>
+    <td><b>💻 OS & Shell</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon_Linux-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zsh-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛠️ DevOps Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/FluxCD-3B3B3B?style=for-the-badge&logo=flux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>☁️ Cloud Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🐧 Linux Expertise</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=linuxfoundation&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔁 Version Control</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>📈 Monitoring & Logs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=utsavv27&theme=dark&hide_border=false) </div>
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=utsavv27&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Utsav's GitHub Stats" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavv27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsavv27&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavv27&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 
-</div>
 
-  
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=utsavv27&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=utsavv27&theme=radical&no-frame=false&column=9&no-bg=false&margin-w=4)
 
 ## Visit Count
 ![](https://komarev.com/ghpvc/?username=utsavv27&color=brightgreen&abbreviated=true&base=1000&style=plastic)
