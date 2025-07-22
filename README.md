@@ -31,7 +31,7 @@
   <a href="https://linkedin.com/in/adhyaruutsav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://website-nine-nu-25.vercel.app/" target="_blank">
+  <a href="https://site-smoky-phi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://drive.google.com/file/d/1UZ5mtswl186L8Y4dQQ6RHpMy5g1FRuU9/view?usp=drive_link" target="_blank">
