@@ -3,7 +3,7 @@
 
 ---
 
-### 💫 About Me
+<h2 align="center">💫 About Me</h2>
 
 - 🧠 **DevOps Expertise**: Bridging development and operations with seamless automation, CI/CD, and deployment strategies.
 - 🐧 **Linux & Scripting**: Power user of Linux with strong experience in Bash scripting for automation and system management.
@@ -22,12 +22,10 @@
 
   - 🔁 **GitOps: Enabling Git-based deployment automation for continuous delivery and version-controlled infrastructure management.**
 
-
-
 ---
-## 🌐 Connect With Me
+<h2 align="center"> 🌐 Connect With Me</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/adhyaruutsav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -39,9 +37,9 @@
   </a>
 </p>
 
-## 🛠️ Tech Stack
+<h2 align="center"> 🛠️ Tech Stack</h2>
 
-<table>
+<table align="center">
   <tr>
     <td><b>💻 OS & Shell</b></td>
     <td>
@@ -94,7 +92,7 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
+<h2 align="center"> 📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utsavv27&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Utsav's GitHub Stats" />
@@ -108,7 +106,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavv27&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
+<h2 align="center">🔝 Top Contributed Repo</h2>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=utsavv27&limit=2&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
@@ -116,7 +114,8 @@
 
 
 
-## 🏆 GitHub Trophies
+<h2 align="center"> 🏆 GitHub Trophies</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=utsavv27&theme=radical&no-frame=false&column=9&no-bg=false&margin-w=4)
 
 ## Visit Count
