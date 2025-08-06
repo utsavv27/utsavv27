@@ -116,8 +116,15 @@
 
 <h2 align="center"> 🏆 GitHub Trophies</h2>
 
+<p align="center"> 
+
 ![](https://github-profile-trophy.vercel.app/?username=utsavv27&theme=radical&no-frame=false&column=9&no-bg=false&margin-w=4)
 
-## Visit Count
-![](https://komarev.com/ghpvc/?username=utsavv27&color=brightgreen&abbreviated=true&base=1000&style=plastic)
+</p>
 
+<h2 align="center">  Visit Count </h2>
+
+<p>
+
+![](https://komarev.com/ghpvc/?username=utsavv27&color=brightgreen&abbreviated=true&base=1000&style=plastic)
+</p>
