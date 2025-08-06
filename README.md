@@ -94,7 +94,6 @@
   </tr>
 </table>
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -102,13 +101,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsavv27&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=utsavv27&theme=dark&hide_border=false" alt="Utsav's Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavv27&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+<h3 align="center">🔝 Top Contributed Repo</h3>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=utsavv27&limit=2&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
+</p>
 
 
 
